@@ -1,0 +1,15 @@
+.red{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+.blue{
+    text-align: center;
+}
+.black{
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-image: url(free1.jpg);
+}
